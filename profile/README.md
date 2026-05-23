@@ -49,21 +49,21 @@ An AI-native media platform and catalog for builders. Newsletter, Telegram, Disc
 
 ### AI & Memory
 
-* 🌐 [layer0](https://github.com/amajorai/layer0) - Self-hosted AI memory and RAG layer with local LLM support, vector embeddings, knowledge graph, and hybrid search
+* 🌐 **[layer0](https://github.com/amajorai/layer0)** - Self-hosted AI memory and RAG layer with local LLM support, vector embeddings, knowledge graph, and hybrid search
 
 ### Desktop
 
-* 🎭 [backstage](https://github.com/amajorai/backstage) - Open-source YouTube thumbnail studio with AI background removal and Gemini image generation
+* 🎭 **[backstage](https://github.com/amajorai/backstage)** - Open-source YouTube thumbnail studio with AI background removal and Gemini image generation
 
-* ⛩️ [torii](https://github.com/amajorai/torii) - Production-ready Tauri v2 + React 19 desktop app shell with licensing, analytics, auto-updates, and secure storage baked in
+* ⛩️ **[torii](https://github.com/amajorai/torii)** - Production-ready Tauri v2 + React 19 desktop app shell with licensing, analytics, auto-updates, and secure storage baked in
 
 ### Claude Code Skills
 
-* 📦 [ship.md](https://github.com/amajorai/ship.md) - End-to-end skill for shipping features without gaps, running up to 10 quality-gated phases from interview to final verify
+* 📦 **[ship.md](https://github.com/amajorai/ship.md)** - End-to-end skill for shipping features without gaps, running up to 10 quality-gated phases from interview to final verify
 
-* 🪅 [vibe.md](https://github.com/amajorai/vibe.md) - End-to-end skill for spinning up a production-ready full-stack dev and deploy environment on a VPS
+* 🪅 **[vibe.md](https://github.com/amajorai/vibe.md)** - End-to-end skill for spinning up a production-ready full-stack dev and deploy environment on a VPS
 
-* ⚡ [skills](https://github.com/amajorai/skills) - Simple, minimal skills for the things developers overlook when shipping apps
+* ⚡ **[skills](https://github.com/amajorai/skills)** - Simple, minimal skills for the things developers overlook when shipping apps
 
 ## Working with us
 
