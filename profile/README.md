@@ -26,7 +26,7 @@ If you want a partner who treats reliability, performance, and developer experie
 
 ## What we're building in the open
 
-### [Ryu](https://ryuhq.com)
+### 🎐 [Ryu](https://ryuhq.com)
 
 AI agent infrastructure for teams that need control. A Rust core with a local-first runtime, a gateway for model and tool traffic, workflows, and security primitives like firewall, PII and DLP, and full audit trails. Built for the moment companies stop prototyping agents and start running them in production.
 
@@ -35,7 +35,7 @@ AI agent infrastructure for teams that need control. A Rust core with a local-fi
   <img src="https://shieldcn.dev/badge/runtime-local%20first-green.png?variant=secondary" alt="Local first" />
 </p>
 
-### [Update Night](https://updatenight.com)
+### 🌙 [Update Night](https://updatenight.com)
 
 An AI-native media platform and catalog for builders. Newsletter, Telegram, Discord, podcast, and a curated catalog of AI and dev tools. Think Mobbin for builders, with memory and search baked in.
 
