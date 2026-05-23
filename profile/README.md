@@ -58,7 +58,7 @@ An AI-native media platform and catalog for builders. Newsletter, Telegram, Disc
 
 ### Desktop
 
-* [backstage](https://github.com/amajorai/backstage) - Open-source YouTube thumbnail studio with AI background removal and Gemini image generation  
+* 🎭 [backstage](https://github.com/amajorai/backstage) - Open-source YouTube thumbnail studio with AI background removal and Gemini image generation  
   [![Stars](https://shieldcn.dev/github/stars/amajorai/backstage.png?logo=github)](https://github.com/amajorai/backstage) [![Release](https://shieldcn.dev/github/release/amajorai/backstage.png)](https://github.com/amajorai/backstage/releases) ![License](https://shieldcn.dev/github/license/amajorai/backstage.png?variant=outline) ![Tauri](https://shieldcn.dev/badge/built%20with-Tauri-FFC131.png?logo=tauri)
 
 * ⛩️ [torii](https://github.com/amajorai/torii) - Production-ready Tauri v2 + React 19 desktop app shell with licensing, analytics, auto-updates, and secure storage baked in  
