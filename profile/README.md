@@ -53,27 +53,21 @@ An AI-native media platform and catalog for builders. Newsletter, Telegram, Disc
 
 ### AI & Memory
 
-* 🌐 [layer0](https://github.com/amajorai/layer0) - Self-hosted AI memory and RAG layer with local LLM support, vector embeddings, knowledge graph, and hybrid search  
-  [![Stars](https://shieldcn.dev/github/stars/amajorai/layer0.png?logo=github)](https://github.com/amajorai/layer0) [![Release](https://shieldcn.dev/github/release/amajorai/layer0.png)](https://github.com/amajorai/layer0/releases) ![License](https://shieldcn.dev/github/license/amajorai/layer0.png?variant=outline) ![Rust](https://shieldcn.dev/badge/built%20with-Rust-orange.png?logo=rust)
+* 🌐 [layer0](https://github.com/amajorai/layer0) - Self-hosted AI memory and RAG layer with local LLM support, vector embeddings, knowledge graph, and hybrid search
 
 ### Desktop
 
-* 🎭 [backstage](https://github.com/amajorai/backstage) - Open-source YouTube thumbnail studio with AI background removal and Gemini image generation  
-  [![Stars](https://shieldcn.dev/github/stars/amajorai/backstage.png?logo=github)](https://github.com/amajorai/backstage) [![Release](https://shieldcn.dev/github/release/amajorai/backstage.png)](https://github.com/amajorai/backstage/releases) ![License](https://shieldcn.dev/github/license/amajorai/backstage.png?variant=outline) ![Tauri](https://shieldcn.dev/badge/built%20with-Tauri-FFC131.png?logo=tauri)
+* 🎭 [backstage](https://github.com/amajorai/backstage) - Open-source YouTube thumbnail studio with AI background removal and Gemini image generation
 
-* ⛩️ [torii](https://github.com/amajorai/torii) - Production-ready Tauri v2 + React 19 desktop app shell with licensing, analytics, auto-updates, and secure storage baked in  
-  [![Stars](https://shieldcn.dev/github/stars/amajorai/torii.png?logo=github)](https://github.com/amajorai/torii) [![Release](https://shieldcn.dev/github/release/amajorai/torii.png)](https://github.com/amajorai/torii/releases) ![License](https://shieldcn.dev/github/license/amajorai/torii.png?variant=outline) ![Tauri](https://shieldcn.dev/badge/built%20with-Tauri-FFC131.png?logo=tauri)
+* ⛩️ [torii](https://github.com/amajorai/torii) - Production-ready Tauri v2 + React 19 desktop app shell with licensing, analytics, auto-updates, and secure storage baked in
 
 ### Claude Code Skills
 
-* 📦 [ship.md](https://github.com/amajorai/ship.md) - End-to-end skill for shipping features without gaps, running up to 10 quality-gated phases from interview to final verify  
-  [![Stars](https://shieldcn.dev/github/stars/amajorai/ship.md.png?logo=github)](https://github.com/amajorai/ship.md) ![License](https://shieldcn.dev/github/license/amajorai/ship.md.png?variant=outline) ![Claude Code](https://shieldcn.dev/badge/Claude%20Code-skill-black.png?logo=anthropic)
+* 📦 [ship.md](https://github.com/amajorai/ship.md) - End-to-end skill for shipping features without gaps, running up to 10 quality-gated phases from interview to final verify
 
-* 🪅 [vibe.md](https://github.com/amajorai/vibe.md) - End-to-end skill for spinning up a production-ready full-stack dev and deploy environment on a VPS  
-  [![Stars](https://shieldcn.dev/github/stars/amajorai/vibe.md.png?logo=github)](https://github.com/amajorai/vibe.md) ![License](https://shieldcn.dev/github/license/amajorai/vibe.md.png?variant=outline) ![Claude Code](https://shieldcn.dev/badge/Claude%20Code-skill-black.png?logo=anthropic)
+* 🪅 [vibe.md](https://github.com/amajorai/vibe.md) - End-to-end skill for spinning up a production-ready full-stack dev and deploy environment on a VPS
 
-* ⚡ [skills](https://github.com/amajorai/skills) - Simple, minimal skills for the things developers overlook when shipping apps  
-  [![Stars](https://shieldcn.dev/github/stars/amajorai/skills.png?logo=github)](https://github.com/amajorai/skills) ![License](https://shieldcn.dev/github/license/amajorai/skills.png?variant=outline) ![Claude Code](https://shieldcn.dev/badge/Claude%20Code-skill-black.png?logo=anthropic)
+* ⚡ [skills](https://github.com/amajorai/skills) - Simple, minimal skills for the things developers overlook when shipping apps
 
 ## Working with us
 
@@ -84,11 +78,5 @@ We take on a small number of client engagements at A Major alongside our own pro
 * **Pilots for Ryu.** If you're running agents in production and need governance, talk to us.
 
 Reach out: **hey@amajor.ai**
-
-## Links
-
-* Website: [amajor.ai](https://amajor.ai)
-* Update Night: [updatenight.com](https://updatenight.com)
-* Email: hey@amajor.ai
 
 <sub>© A Major. Built in Singapore.</sub>
