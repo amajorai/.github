@@ -1,15 +1,63 @@
-# A Major
+<div align="center">
+  <img src="https://s3-us-west-2.amazonaws.com/public.notion-static.com/52116851-6cae-4e9a-8522-d3945b0f181e/Submark_W_BG.png" alt="A Major" width="120" />
+  <h1>A Major</h1>
+  <p><strong>Software that just works.</strong></p>
+  <p>A Singapore-based software studio building web, mobile, desktop, and enterprise systems with a quality-first bias.</p>
+</div>
 
-We build Update Night -- a catalog of AI developer tools, agent frameworks, MCP servers, skills, and AI news for developers building with AI.
+---
 
-## Update Night
+## What we do
 
-Update Night tracks what is shipping in the AI dev ecosystem: new tools, frameworks, SDKs, and MCP servers, updated weekly. Browse the catalog at [updatenight.com](https://updatenight.com).
+We design and ship production software for teams that care about craft. Our work spans:
 
-### Open source
+* **Web apps** built on modern, typed stacks
+* **Mobile apps** for iOS and Android
+* **Desktop apps** with native performance
+* **Enterprise systems** with integrations, auth, and audit built in
+* **AI-native products** where agents, retrieval, and workflows are first-class
 
-| Repo | Description |
-|------|-------------|
-| [Update Night CLI](https://github.com/amajorai/updatenight-cli) | Terminal UI for browsing the catalog -- search, read news, and browse by category |
-| [Update Night MCP](https://github.com/amajorai/updatenight-mcp) | MCP server that gives AI assistants tools to search and explore the catalog |
-| [Update Night Skill](https://github.com/amajorai/updatenight-skill) | Claude Code skill for finding tools and reading news from any AI agent session |
+If you want a partner who treats reliability, performance, and developer experience as features, you're in the right place.
+
+## What we're building in the open
+
+### Ryu
+AI agent infrastructure for teams that need control. A Rust core with a local-first runtime, a gateway for model and tool traffic, workflows, and security primitives like firewall, PII and DLP, and full audit trails. Built for the moment companies stop prototyping agents and start running them in production.
+
+### Update Night
+An AI-native media platform and catalog for builders. Newsletter, Telegram, Discord, podcast, and a curated catalog of AI and dev tools. Think Mobbin for builders, with memory and search baked in.
+
+### Internal tooling
+We open source pieces of our spec-driven development stack as we go, including snippets and configs for Spec Kit, OpenSpec, GSD, gstack, and dex.
+
+## How we work
+
+* **Spec-driven.** We write the spec, then the code. Tools and agents help, but the spec is the contract.
+* **Small teams, tight loops.** Short iterations, visible work, fast feedback.
+* **Default to typed and tested.** TypeScript, Rust, and friends. Tests where they buy real confidence.
+* **Local-first when it makes sense.** User data and compute belong close to the user.
+* **Boring infrastructure, interesting product.** We pick the dull, proven option for the foundation so we can take swings on the surface.
+
+## Tech we reach for
+
+`TypeScript` · `Rust` · `Next.js` · `Tauri` · `React Native` · `Postgres` · `SQLite` · `Drizzle` · `tRPC` · `Tailwind` · `pnpm` · `Turborepo` · `OpenTelemetry`
+
+## Working with us
+
+We take on a small number of client engagements at A Major alongside our own products.
+
+* **Custom builds.** Web, mobile, desktop, or backend systems, scoped and shipped.
+* **AI adoption consulting.** A focused, low-friction engagement to help teams put AI to work without breaking what already works.
+* **Pilots for Ryu.** If you're running agents in production and need governance, talk to us.
+
+Reach out: **hey@amajor.ai**
+
+## Links
+
+* Website: [amajor.ai](https://amajor.ai)
+* Update Night: [updatenight.com](https://updatenight.com)
+* Email: hey@amajor.ai
+
+---
+
+<sub>© A Major. Built in Singapore.</sub>
