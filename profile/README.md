@@ -30,6 +30,23 @@ An AI-native media platform and catalog for builders. Newsletter, Telegram, Disc
 ### Internal tooling
 We open source pieces of our spec-driven development stack as we go, including snippets and configs for Spec Kit, OpenSpec, GSD, gstack, and dex.
 
+## Current Projects
+
+### AI & Memory
+
+* 🧠 [layer0](https://github.com/amajorai/layer0) — Self-hosted AI memory and RAG layer with local LLM support, vector embeddings, knowledge graph, and hybrid search
+
+### Desktop
+
+* 🎬 [backstage](https://github.com/amajorai/backstage) — Open-source YouTube thumbnail studio with AI background removal and Gemini image generation
+* 🏯 [torii](https://github.com/amajorai/torii) — Production-ready Tauri v2 + React 19 desktop app shell with licensing, analytics, auto-updates, and secure storage baked in
+
+### Claude Code Skills
+
+* 🚀 [ship.md](https://github.com/amajorai/ship.md) — End-to-end skill for shipping features without gaps, running up to 10 quality-gated phases from interview to final verify
+* ⚡ [vibe.md](https://github.com/amajorai/vibe.md) — End-to-end skill for spinning up a production-ready full-stack dev and deploy environment on a VPS
+* 🧰 [skills](https://github.com/amajorai/skills) — Simple, minimal skills for the things developers overlook when shipping apps
+
 ## How we work
 
 * **Spec-driven.** We write the spec, then the code. Tools and agents help, but the spec is the contract.
