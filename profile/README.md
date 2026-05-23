@@ -12,18 +12,6 @@
   </p>
 </div>
 
-## What we do
-
-We design and ship production software for teams that care about craft. Our work spans:
-
-* **Web apps** built on modern, typed stacks
-* **Mobile apps** for iOS and Android
-* **Desktop apps** with native performance
-* **Enterprise systems** with integrations, auth, and audit built in
-* **AI-native products** where agents, retrieval, and workflows are first-class
-
-If you want a partner who treats reliability, performance, and developer experience as features, you're in the right place.
-
 ## What we're building in the open
 
 ### 🎐 [Ryu](https://ryuhq.com)
@@ -74,15 +62,5 @@ The open-source YouTube thumbnail studio. Extract frames, edit with layers, remo
 * 🪅 **[vibe.md](https://github.com/amajorai/vibe.md)** - End-to-end skill for spinning up a production-ready full-stack dev and deploy environment on a VPS
 
 * ⚡ **[skills](https://github.com/amajorai/skills)** - Simple, minimal skills for the things developers overlook when shipping apps
-
-## Working with us
-
-We take on a small number of client engagements at A Major alongside our own products.
-
-* **Custom builds.** Web, mobile, desktop, or backend systems, scoped and shipped.
-* **AI adoption consulting.** A focused, low-friction engagement to help teams put AI to work without breaking what already works.
-* **Pilots for Ryu.** If you're running agents in production and need governance, talk to us.
-
-Reach out: **hey@amajor.ai**
 
 <sub>© A Major. Built in Singapore.</sub>
