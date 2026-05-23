@@ -3,6 +3,13 @@
   <h1>A Major</h1>
   <p><strong>Software that just works.</strong></p>
   <p>A Singapore-based software studio building web, mobile, desktop, and enterprise systems with a quality-first bias.</p>
+
+  <p>
+    <a href="https://amajor.ai"><img src="https://shieldcn.dev/badge/website-amajor.ai-black.png?logo=googlechrome" alt="Website" /></a>
+    <a href="mailto:hey@amajor.ai"><img src="https://shieldcn.dev/badge/email-hey@amajor.ai-blue.png?logo=gmail" alt="Email" /></a>
+    <a href="https://updatenight.com"><img src="https://shieldcn.dev/badge/Update%20Night-subscribe-orange.png?variant=secondary&logo=substack" alt="Update Night" /></a>
+    <img src="https://shieldcn.dev/badge/made%20in-Singapore-red.png" alt="Made in Singapore" />
+  </p>
 </div>
 
 ## What we do
@@ -20,27 +27,53 @@ If you want a partner who treats reliability, performance, and developer experie
 ## What we're building in the open
 
 ### [Ryu](https://ryuhq.com)
+
 AI agent infrastructure for teams that need control. A Rust core with a local-first runtime, a gateway for model and tool traffic, workflows, and security primitives like firewall, PII and DLP, and full audit trails. Built for the moment companies stop prototyping agents and start running them in production.
 
+<p>
+  <a href="https://github.com/amajorai/ryu"><img src="https://shieldcn.dev/github/stars/amajorai/ryu.png?logo=github" alt="Stars" /></a>
+  <a href="https://github.com/amajorai/ryu/releases"><img src="https://shieldcn.dev/github/release/amajorai/ryu.png" alt="Release" /></a>
+  <a href="https://github.com/amajorai/ryu/actions"><img src="https://shieldcn.dev/github/ci/amajorai/ryu.png" alt="CI" /></a>
+  <img src="https://shieldcn.dev/github/license/amajorai/ryu.png?variant=outline" alt="License" />
+  <img src="https://shieldcn.dev/badge/built%20with-Rust-orange.png?logo=rust" alt="Built with Rust" />
+  <img src="https://shieldcn.dev/badge/runtime-local%20first-green.png?variant=secondary" alt="Local first" />
+</p>
+
 ### [Update Night](https://updatenight.com)
+
 An AI-native media platform and catalog for builders. Newsletter, Telegram, Discord, podcast, and a curated catalog of AI and dev tools. Think Mobbin for builders, with memory and search baked in.
+
+<p>
+  <a href="https://github.com/amajorai/updatenight-cli"><img src="https://shieldcn.dev/github/stars/amajorai/updatenight-cli.png?logo=github" alt="Stars" /></a>
+  <img src="https://shieldcn.dev/badge/newsletter-live-purple.png?logo=substack&variant=secondary" alt="Newsletter" />
+  <img src="https://shieldcn.dev/badge/podcast-on%20air-red.png?logo=spotify" alt="Podcast" />
+</p>
 
 ## Current Projects
 
 ### AI & Memory
 
-* [layer0](https://github.com/amajorai/layer0) - Self-hosted AI memory and RAG layer with local LLM support, vector embeddings, knowledge graph, and hybrid search
+* 🌐 [layer0](https://github.com/amajorai/layer0) - Self-hosted AI memory and RAG layer with local LLM support, vector embeddings, knowledge graph, and hybrid search  
+  [![Stars](https://shieldcn.dev/github/stars/amajorai/layer0.png?logo=github)](https://github.com/amajorai/layer0) [![Release](https://shieldcn.dev/github/release/amajorai/layer0.png)](https://github.com/amajorai/layer0/releases) ![License](https://shieldcn.dev/github/license/amajorai/layer0.png?variant=outline) ![Rust](https://shieldcn.dev/badge/built%20with-Rust-orange.png?logo=rust)
 
 ### Desktop
 
-* [backstage](https://github.com/amajorai/backstage) - Open-source YouTube thumbnail studio with AI background removal and Gemini image generation
-* ⛩️ [torii](https://github.com/amajorai/torii) - Production-ready Tauri v2 + React 19 desktop app shell with licensing, analytics, auto-updates, and secure storage baked in
+* [backstage](https://github.com/amajorai/backstage) - Open-source YouTube thumbnail studio with AI background removal and Gemini image generation  
+  [![Stars](https://shieldcn.dev/github/stars/amajorai/backstage.png?logo=github)](https://github.com/amajorai/backstage) [![Release](https://shieldcn.dev/github/release/amajorai/backstage.png)](https://github.com/amajorai/backstage/releases) ![License](https://shieldcn.dev/github/license/amajorai/backstage.png?variant=outline) ![Tauri](https://shieldcn.dev/badge/built%20with-Tauri-FFC131.png?logo=tauri)
+
+* ⛩️ [torii](https://github.com/amajorai/torii) - Production-ready Tauri v2 + React 19 desktop app shell with licensing, analytics, auto-updates, and secure storage baked in  
+  [![Stars](https://shieldcn.dev/github/stars/amajorai/torii.png?logo=github)](https://github.com/amajorai/torii) [![Release](https://shieldcn.dev/github/release/amajorai/torii.png)](https://github.com/amajorai/torii/releases) ![License](https://shieldcn.dev/github/license/amajorai/torii.png?variant=outline) ![Tauri](https://shieldcn.dev/badge/built%20with-Tauri-FFC131.png?logo=tauri)
 
 ### Claude Code Skills
 
-* 📦 [ship.md](https://github.com/amajorai/ship.md) - End-to-end skill for shipping features without gaps, running up to 10 quality-gated phases from interview to final verify
-* 🪅 [vibe.md](https://github.com/amajorai/vibe.md) - End-to-end skill for spinning up a production-ready full-stack dev and deploy environment on a VPS
-* [skills](https://github.com/amajorai/skills) - Simple, minimal skills for the things developers overlook when shipping apps
+* 📦 [ship.md](https://github.com/amajorai/ship.md) - End-to-end skill for shipping features without gaps, running up to 10 quality-gated phases from interview to final verify  
+  [![Stars](https://shieldcn.dev/github/stars/amajorai/ship.md.png?logo=github)](https://github.com/amajorai/ship.md) ![License](https://shieldcn.dev/github/license/amajorai/ship.md.png?variant=outline) ![Claude Code](https://shieldcn.dev/badge/Claude%20Code-skill-black.png?logo=anthropic)
+
+* 🪅 [vibe.md](https://github.com/amajorai/vibe.md) - End-to-end skill for spinning up a production-ready full-stack dev and deploy environment on a VPS  
+  [![Stars](https://shieldcn.dev/github/stars/amajorai/vibe.md.png?logo=github)](https://github.com/amajorai/vibe.md) ![License](https://shieldcn.dev/github/license/amajorai/vibe.md.png?variant=outline) ![Claude Code](https://shieldcn.dev/badge/Claude%20Code-skill-black.png?logo=anthropic)
+
+* ⚡ [skills](https://github.com/amajorai/skills) - Simple, minimal skills for the things developers overlook when shipping apps  
+  [![Stars](https://shieldcn.dev/github/stars/amajorai/skills.png?logo=github)](https://github.com/amajorai/skills) ![License](https://shieldcn.dev/github/license/amajorai/skills.png?variant=outline) ![Claude Code](https://shieldcn.dev/badge/Claude%20Code-skill-black.png?logo=anthropic)
 
 ## Working with us
 
