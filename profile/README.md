@@ -31,10 +31,6 @@ If you want a partner who treats reliability, performance, and developer experie
 AI agent infrastructure for teams that need control. A Rust core with a local-first runtime, a gateway for model and tool traffic, workflows, and security primitives like firewall, PII and DLP, and full audit trails. Built for the moment companies stop prototyping agents and start running them in production.
 
 <p>
-  <a href="https://github.com/amajorai/ryu"><img src="https://shieldcn.dev/github/stars/amajorai/ryu.png?logo=github" alt="Stars" /></a>
-  <a href="https://github.com/amajorai/ryu/releases"><img src="https://shieldcn.dev/github/release/amajorai/ryu.png" alt="Release" /></a>
-  <a href="https://github.com/amajorai/ryu/actions"><img src="https://shieldcn.dev/github/ci/amajorai/ryu.png" alt="CI" /></a>
-  <img src="https://shieldcn.dev/github/license/amajorai/ryu.png?variant=outline" alt="License" />
   <img src="https://shieldcn.dev/badge/built%20with-Rust-orange.png?logo=rust" alt="Built with Rust" />
   <img src="https://shieldcn.dev/badge/runtime-local%20first-green.png?variant=secondary" alt="Local first" />
 </p>
