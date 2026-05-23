@@ -45,6 +45,16 @@ An AI-native media platform and catalog for builders. Newsletter, Telegram, Disc
   <img src="https://shieldcn.dev/badge/podcast-on%20air-red.png?logo=spotify" alt="Podcast" />
 </p>
 
+### 🎭 [Backstage](https://github.com/amajorai/backstage)
+
+The open-source YouTube thumbnail studio. Extract frames, edit with layers, remove backgrounds with AI, and generate images with Gemini. Free, offline, and runs entirely on your machine.
+
+<p>
+  <a href="https://github.com/amajorai/backstage/releases"><img src="https://shieldcn.dev/github/release/amajorai/backstage.png" alt="Release" /></a>
+  <img src="https://shieldcn.dev/badge/built%20with-Tauri-FFC131.png?logo=tauri" alt="Built with Tauri" />
+  <img src="https://shieldcn.dev/badge/platform-macOS%20%7C%20Windows%20%7C%20Linux-black.png" alt="Cross-platform" />
+</p>
+
 ## Current Projects
 
 ### AI & Memory
