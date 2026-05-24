@@ -55,7 +55,7 @@ The open-source YouTube thumbnail studio. Extract frames, edit with layers, remo
 
 * ⛩️ **[torii](https://github.com/amajorai/torii)** - Production-ready Tauri v2 + React 19 desktop app shell with licensing, analytics, auto-updates, and secure storage baked in
 
-### Claude Code Skills
+### Skills
 
 * 📦 **[ship.md](https://github.com/amajorai/ship.md)** - End-to-end skill for shipping features without gaps, running up to 10 quality-gated phases from interview to final verify
 
