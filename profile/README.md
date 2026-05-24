@@ -61,4 +61,6 @@ The open-source YouTube thumbnail studio. Extract frames, edit with layers, remo
 
 * 🪅 **[vibe.md](https://github.com/amajorai/vibe.md)** - End-to-end skill for spinning up a production-ready full-stack dev and deploy environment on a VPS
 
+* 🎉 **[party.md](https://github.com/amajorai/party.md)** - Use GitHub issues and projects as a kanban board to ship features 24/7 autonomously
+
 * ⚡ **[skills](https://github.com/amajorai/skills)** - Simple, minimal skills for the things developers overlook when shipping apps
