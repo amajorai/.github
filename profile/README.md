@@ -57,10 +57,16 @@ The open-source YouTube thumbnail studio. Extract frames, edit with layers, remo
 
 ### Skills
 
-* 📦 **[ship.md](https://github.com/amajorai/ship.md)** - End-to-end skill for shipping features without gaps, running up to 10 quality-gated phases from interview to final verify
+* 🌼 **[amajor.md](https://github.com/amajorai/amajor.md)** - Master skill directory. One install, discover every A Major skill. Built for agents to find the right tool for any task.
 
-* 🪅 **[vibe.md](https://github.com/amajorai/vibe.md)** - End-to-end skill for spinning up a production-ready full-stack dev and deploy environment on a VPS
+* 📦 **[ship.md](https://github.com/amajorai/ship.md)** - A thin, structured workflow for shipping features. Simple, minimal, lean. One interview, one plan, ship the thing.
 
-* 🎉 **[party.md](https://github.com/amajorai/party.md)** - Use GitHub issues and projects as a kanban board to ship features 24/7 autonomously
+* 🪅 **[vibe.md](https://github.com/amajorai/vibe.md)** - Spin up a 24/7 production-ready full-stack dev and deploy environment. One interview, one clean pass.
 
-* ⚡ **[skills](https://github.com/amajorai/skills)** - Simple, minimal skills for the things developers overlook when shipping apps
+* 🎉 **[party.md](https://github.com/amajorai/party.md)** - GitHub Projects as the interface. Drop in issues, it ships them while you sleep.
+
+* 🎬 **[replay.md](https://github.com/amajorai/replay.md)** - Record a live video of your running app and share the link, straight from chat.
+
+* 🔎 **[fix.md](https://github.com/amajorai/fix.md)** - Systematic bug-fixing. Explore first, instrument strategically, read the logs, fix surgically, verify clean.
+
+* ⚡ **[skills](https://github.com/amajorai/skills)** - 30+ smaller skills for the things developers overlook when shipping. Edge cases, E2E, auth, payments, SEO, CI, and more.
