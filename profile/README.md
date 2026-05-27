@@ -59,6 +59,8 @@ The open-source YouTube thumbnail studio. Extract frames, edit with layers, remo
 
 * 🌼 **[amajor.md](https://github.com/amajorai/amajor.md)** - Master skill directory. One install, discover every A Major skill. Built for agents to find the right tool for any task.
 
+* 👻 **[spec.md](https://github.com/amajorai/spec.md)** - Spec-driven development. Break any task into atomic, agent-ready GitHub issues. The first step before shipping.
+
 * 📦 **[ship.md](https://github.com/amajorai/ship.md)** - A thin, structured workflow for shipping features. Simple, minimal, lean. One interview, one plan, ship the thing.
 
 * 🪅 **[vibe.md](https://github.com/amajorai/vibe.md)** - Spin up a 24/7 production-ready full-stack dev and deploy environment. One interview, one clean pass.
