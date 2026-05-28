@@ -71,4 +71,8 @@ The open-source YouTube thumbnail studio. Extract frames, edit with layers, remo
 
 * 🔎 **[fix.md](https://github.com/amajorai/fix.md)** - Systematic bug-fixing. Explore first, instrument strategically, read the logs, fix surgically, verify clean.
 
+* 🧪 **[sandbox.md](https://github.com/amajorai/sandbox.md)** - Self-hosted cloud sandbox environment. Choose Daytona, Docker+Bun, or Firecracker. Spawn isolated exec sandboxes or long-lived dev workspaces from chat.
+
+* 📋 **[ctx.md](https://github.com/amajorai/ctx.md)** - Write and maintain CLAUDE.md and AGENTS.md for any workspace. Explores the codebase, interviews for gaps, gives every agent full orientation in one read.
+
 * ⚡ **[skills](https://github.com/amajorai/skills)** - 30+ smaller skills for the things developers overlook when shipping. Edge cases, E2E, auth, payments, SEO, CI, and more.
