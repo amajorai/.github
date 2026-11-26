@@ -12,67 +12,23 @@
   </p>
 </div>
 
-## What we're building in the open
+## Projects
 
-### 🎐 [Ryu](https://ryuhq.com)
+* 🎐 **[Ryu](https://github.com/amajorai/ryu)** (45 stars) - open-source agent infrastructure for teams · [ryuhq.com](https://ryuhq.com)
+* 🌐 **[layer0](https://github.com/amajorai/layer0)** (4 stars) - self-hosted AI memory and RAG layer
+* 🎭 **[backstage](https://github.com/amajorai/backstage)** (4 stars) - open-source YouTube thumbnail studio
+* 🌙 **[Update Night](https://updatenight.com)** - newsletter and catalog of AI dev tools · [CLI](https://github.com/amajorai/updatenight-cli) · [MCP](https://github.com/amajorai/updatenight-mcp) · [skill](https://github.com/amajorai/updatenight-skill)
+* ⛩️ **[torii](https://github.com/amajorai/torii)** - Tauri v2 + React 19 desktop app shell
 
-AI agent infrastructure for teams that need control. A Rust core with a local-first runtime, a gateway for model and tool traffic, workflows, and security primitives like firewall, PII and DLP, and full audit trails. Built for the moment companies stop prototyping agents and start running them in production.
+## Skills
 
-<p>
-  <img src="https://shieldcn.dev/badge/built%20with-Rust-orange.png?logo=rust" alt="Built with Rust" />
-  <img src="https://shieldcn.dev/badge/runtime-local%20first-green.png?variant=secondary" alt="Local first" />
-</p>
-
-### 🌙 [Update Night](https://updatenight.com)
-
-An AI-native media platform and catalog for builders. Newsletter, Telegram, Discord, podcast, and a curated catalog of AI and dev tools. Think Mobbin for builders, with memory and search baked in.
-
-<p>
-  <a href="https://github.com/amajorai/updatenight-cli"><img src="https://shieldcn.dev/github/stars/amajorai/updatenight-cli.png?logo=github" alt="Stars" /></a>
-  <img src="https://shieldcn.dev/badge/newsletter-live-purple.png?logo=substack&variant=secondary" alt="Newsletter" />
-  <img src="https://shieldcn.dev/badge/podcast-on%20air-red.png?logo=spotify" alt="Podcast" />
-</p>
-
-### 🎭 [Backstage](https://github.com/amajorai/backstage)
-
-The open-source YouTube thumbnail studio. Extract frames, edit with layers, remove backgrounds with AI, and generate images with Gemini. Free, offline, and runs entirely on your machine.
-
-<p>
-  <a href="https://github.com/amajorai/backstage/releases"><img src="https://shieldcn.dev/github/release/amajorai/backstage.png" alt="Release" /></a>
-  <img src="https://shieldcn.dev/badge/built%20with-Tauri-FFC131.png?logo=tauri" alt="Built with Tauri" />
-  <img src="https://shieldcn.dev/badge/platform-macOS%20%7C%20Windows%20%7C%20Linux-black.png" alt="Cross-platform" />
-</p>
-
-## Current Projects
-
-### AI & Memory
-
-* 🌐 **[layer0](https://github.com/amajorai/layer0)** - Self-hosted AI memory and RAG layer with local LLM support, vector embeddings, knowledge graph, and hybrid search
-
-### Desktop
-
-* 🎭 **[backstage](https://github.com/amajorai/backstage)** - Open-source YouTube thumbnail studio with AI background removal and Gemini image generation
-
-* ⛩️ **[torii](https://github.com/amajorai/torii)** - Production-ready Tauri v2 + React 19 desktop app shell with licensing, analytics, auto-updates, and secure storage baked in
-
-### Skills
-
-* 🌼 **[amajor.md](https://github.com/amajorai/amajor.md)** - Master skill directory. One install, discover every A Major skill. Built for agents to find the right tool for any task.
-
-* 👻 **[spec.md](https://github.com/amajorai/spec.md)** - Spec-driven development. Break any task into atomic, agent-ready GitHub issues. The first step before shipping.
-
-* 📦 **[ship.md](https://github.com/amajorai/ship.md)** - A thin, structured workflow for shipping features. Simple, minimal, lean. One interview, one plan, ship the thing.
-
-* 🪅 **[vibe.md](https://github.com/amajorai/vibe.md)** - Spin up a 24/7 production-ready full-stack dev and deploy environment. One interview, one clean pass.
-
-* 🎉 **[party.md](https://github.com/amajorai/party.md)** - GitHub Projects as the interface. Drop in issues, it ships them while you sleep.
-
-* 🎬 **[replay.md](https://github.com/amajorai/replay.md)** - Record a live video of your running app and share the link, straight from chat.
-
-* 🔎 **[fix.md](https://github.com/amajorai/fix.md)** - Systematic bug-fixing. Explore first, instrument strategically, read the logs, fix surgically, verify clean.
-
-* 🧪 **[sandbox.md](https://github.com/amajorai/sandbox.md)** - Self-hosted cloud sandbox environment. Choose Daytona, Docker+Bun, or Firecracker. Spawn isolated exec sandboxes or long-lived dev workspaces from chat.
-
-* 📋 **[context.md](https://github.com/amajorai/context.md)** - Write and maintain CLAUDE.md and AGENTS.md for any workspace. Explores the codebase, interviews for gaps, gives every agent full orientation in one read.
-
-* ⚡ **[skills](https://github.com/amajorai/skills)** - 30+ smaller skills for the things developers overlook when shipping. Edge cases, E2E, auth, payments, SEO, CI, and more.
+* 📦 **[ship.md](https://github.com/amajorai/ship.md)** (6 stars) - structured workflow for shipping features with Claude Code
+* 👻 **[spec.md](https://github.com/amajorai/spec.md)** (5 stars) - break any task into agent-ready GitHub issues
+* ⚡ **[skills](https://github.com/amajorai/skills)** (3 stars) - 30+ small skills for the things people skip when shipping
+* 🌼 **[amajor.md](https://github.com/amajorai/amajor.md)** - one install for every A Major skill
+* 🪅 **[vibe.md](https://github.com/amajorai/vibe.md)** - set up a 24/7 dev and deploy server
+* 🎉 **[party.md](https://github.com/amajorai/party.md)** - ship GitHub issues from your project board
+* 🎬 **[replay.md](https://github.com/amajorai/replay.md)** - record and share a video of your running app
+* 🔎 **[fix.md](https://github.com/amajorai/fix.md)** - systematic bug hunting
+* 🧪 **[sandbox.md](https://github.com/amajorai/sandbox.md)** - self-hosted cloud sandboxes for Claude Code
+* 📋 **[context.md](https://github.com/amajorai/context.md)** - write and maintain CLAUDE.md and AGENTS.md
