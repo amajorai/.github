@@ -1,8 +1,6 @@
 <div align="center">
   <img src="https://s3-us-west-2.amazonaws.com/public.notion-static.com/52116851-6cae-4e9a-8522-d3945b0f181e/Submark_W_BG.png" alt="A Major" width="120" />
   <h1>A Major</h1>
-  <p><strong>Software that just works.</strong></p>
-  <p>A Singapore-based software studio building web, mobile, desktop, and enterprise systems with a quality-first bias.</p>
 
   <p>
     <a href="https://amajor.ai"><img src="https://shieldcn.dev/badge/website-amajor.ai-black.png?logo=googlechrome" alt="Website" /></a>
